@@ -6,3 +6,11 @@ C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\SytemOffer\Entities\obj\
 C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\Entities\obj\Debug\netstandard2.1\Entities.csprojAssemblyReference.cache
 C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\Entities\obj\Debug\netstandard2.1\Entities.AssemblyInfoInputs.cache
 C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\Entities\obj\Debug\netstandard2.1\Entities.AssemblyInfo.cs
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\Entities\bin\Debug\netstandard2.1\Entities.deps.json
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\Entities\bin\Debug\netstandard2.1\Entities.dll
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\Entities\bin\Debug\netstandard2.1\Entities.pdb
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\Entities\bin\Debug\netstandard2.1\Core.dll
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\Entities\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\Entities\obj\Debug\netstandard2.1\Entities.csproj.CopyComplete
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\Entities\obj\Debug\netstandard2.1\Entities.dll
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\Entities\obj\Debug\netstandard2.1\Entities.pdb

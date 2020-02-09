@@ -6,3 +6,15 @@ C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\SytemOffer\Business\obj\
 C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\Business\obj\Debug\netstandard2.1\Business.csprojAssemblyReference.cache
 C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\Business\obj\Debug\netstandard2.1\Business.AssemblyInfoInputs.cache
 C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\Business\obj\Debug\netstandard2.1\Business.AssemblyInfo.cs
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\Business\bin\Debug\netstandard2.1\Business.deps.json
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\Business\bin\Debug\netstandard2.1\Business.dll
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\Business\bin\Debug\netstandard2.1\Business.pdb
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\Business\bin\Debug\netstandard2.1\Core.dll
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\Business\bin\Debug\netstandard2.1\DataAccess.dll
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\Business\bin\Debug\netstandard2.1\Entities.dll
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\Business\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\Business\bin\Debug\netstandard2.1\DataAccess.pdb
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\Business\bin\Debug\netstandard2.1\Entities.pdb
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\Business\obj\Debug\netstandard2.1\Business.csproj.CopyComplete
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\Business\obj\Debug\netstandard2.1\Business.dll
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\Business\obj\Debug\netstandard2.1\Business.pdb

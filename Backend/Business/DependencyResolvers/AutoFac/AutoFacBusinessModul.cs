@@ -10,7 +10,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace SchoolBusiness.DependencyResolvers.AutoFac
+namespace Business.DependencyResolvers.AutoFac
 {
     public class AutoFacBusinessModul : Module
     {

@@ -5,6 +5,7 @@ using Entities.Concrete;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using Business.Helpers;
 
 namespace Business.Concrete
 {
@@ -21,6 +22,7 @@ namespace Business.Concrete
         {
             try
             {
+                user.Password = Crypt.Encrypt(user.Password);
                 _IUsersDal.Add(user);
                 return new SuccessResult(message: Contants.Messages.AddMessage);
             }
@@ -54,10 +56,17 @@ namespace Business.Concrete
             return new SuccessDataResult<List<Users>>(_IUsersDal.GetList().ToList());
         }
 
+        IDataResult<Users> IUsersService.Login(Users user)
+        {
+            user.Password = Crypt.Encrypt(user.Password);
+            return new SuccessDataResult<Users>(_IUsersDal.Get(filter: x => x.Email == user.Email && user.Password == user.Password));
+        }
+
         public IResult Update(Users user)
         {            
             try
             {
+                user.Password = Crypt.Encrypt(user.Password);
                 _IUsersDal.Update(user);
                 return new SuccessResult(message: Contants.Messages.UpdateMessage);
             }
@@ -79,5 +88,6 @@ namespace Business.Concrete
                 return new ErrorResult(message: ex.Message);
             }
         }
+
     }
 }

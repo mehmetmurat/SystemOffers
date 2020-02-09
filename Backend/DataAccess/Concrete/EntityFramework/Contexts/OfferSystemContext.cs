@@ -12,6 +12,6 @@ namespace DataAccess.Concrete.EntityFramework.Contexts
         {
             optionsBuilder.UseSqlServer(connectionString: @"Server=78.142.210.2\MSSQLSERVER2012;Database=OfferSystem;User Id=offer82;Password=Fi8z*d60;");
         }
-        public DbSet<Users> Schools { get; set; }
+        public DbSet<Users> Users { get; set; }
     }
 }
