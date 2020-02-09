@@ -1,0 +1,11 @@
+Backend/API/bin
+Backend/Business/bin
+Backend/Core/bin
+Backend/DataAccess/bin
+Backend/Entities/bin
+Backend/API/obj
+Business/obj
+Backend/Core/obj
+Backend/DataAccess/obj
+Backend/Entities/obj
+Backend/.vs/
