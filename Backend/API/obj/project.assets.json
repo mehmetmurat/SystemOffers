@@ -233,11 +233,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bmura\\Documents\\MyProjects\\SystemOffer\\Backend\\SytemOffer\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\bmura\\Documents\\MyProjects\\SystemOffer\\Backend\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\bmura\\Documents\\MyProjects\\SystemOffer\\Backend\\SytemOffer\\API\\API.csproj",
+      "projectPath": "C:\\Users\\bmura\\Documents\\MyProjects\\SystemOffer\\Backend\\API\\API.csproj",
       "packagesPath": "C:\\Users\\bmura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bmura\\Documents\\MyProjects\\SystemOffer\\Backend\\SytemOffer\\API\\obj\\",
+      "outputPath": "C:\\Users\\bmura\\Documents\\MyProjects\\SystemOffer\\Backend\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bmura\\AppData\\Roaming\\NuGet\\NuGet.Config",

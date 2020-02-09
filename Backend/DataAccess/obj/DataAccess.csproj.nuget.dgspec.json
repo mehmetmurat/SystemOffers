@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bmura\\Documents\\MyProjects\\SystemOffer\\Backend\\SytemOffer\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\bmura\\Documents\\MyProjects\\SystemOffer\\Backend\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bmura\\Documents\\MyProjects\\SystemOffer\\Backend\\SytemOffer\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\bmura\\Documents\\MyProjects\\SystemOffer\\Backend\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bmura\\Documents\\MyProjects\\SystemOffer\\Backend\\SytemOffer\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\bmura\\Documents\\MyProjects\\SystemOffer\\Backend\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\bmura\\Documents\\MyProjects\\SystemOffer\\Backend\\SytemOffer\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\bmura\\Documents\\MyProjects\\SystemOffer\\Backend\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\bmura\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bmura\\Documents\\MyProjects\\SystemOffer\\Backend\\SytemOffer\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\bmura\\Documents\\MyProjects\\SystemOffer\\Backend\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bmura\\AppData\\Roaming\\NuGet\\NuGet.Config",

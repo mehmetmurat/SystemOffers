@@ -3,3 +3,6 @@ C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\SytemOffer\Business\bin\
 C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\SytemOffer\Business\obj\Debug\netstandard2.1\Business.csprojAssemblyReference.cache
 C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\SytemOffer\Business\obj\Debug\netstandard2.1\Business.AssemblyInfoInputs.cache
 C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\SytemOffer\Business\obj\Debug\netstandard2.1\Business.AssemblyInfo.cs
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\Business\obj\Debug\netstandard2.1\Business.csprojAssemblyReference.cache
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\Business\obj\Debug\netstandard2.1\Business.AssemblyInfoInputs.cache
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\Business\obj\Debug\netstandard2.1\Business.AssemblyInfo.cs

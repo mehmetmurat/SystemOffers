@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bmura\\Documents\\MyProjects\\SystemOffer\\Backend\\SytemOffer\\Business\\Business.csproj": {}
+    "C:\\Users\\bmura\\Documents\\MyProjects\\SystemOffer\\Backend\\Business\\Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bmura\\Documents\\MyProjects\\SystemOffer\\Backend\\SytemOffer\\Business\\Business.csproj": {
+    "C:\\Users\\bmura\\Documents\\MyProjects\\SystemOffer\\Backend\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bmura\\Documents\\MyProjects\\SystemOffer\\Backend\\SytemOffer\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\bmura\\Documents\\MyProjects\\SystemOffer\\Backend\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\bmura\\Documents\\MyProjects\\SystemOffer\\Backend\\SytemOffer\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\bmura\\Documents\\MyProjects\\SystemOffer\\Backend\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\bmura\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bmura\\Documents\\MyProjects\\SystemOffer\\Backend\\SytemOffer\\Business\\obj\\",
+        "outputPath": "C:\\Users\\bmura\\Documents\\MyProjects\\SystemOffer\\Backend\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bmura\\AppData\\Roaming\\NuGet\\NuGet.Config",

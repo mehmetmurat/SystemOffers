@@ -3,3 +3,6 @@ C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\SytemOffer\DataAccess\bi
 C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\SytemOffer\DataAccess\obj\Debug\netstandard2.1\DataAccess.csprojAssemblyReference.cache
 C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\SytemOffer\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfoInputs.cache
 C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\SytemOffer\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfo.cs
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\DataAccess\obj\Debug\netstandard2.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfo.cs
