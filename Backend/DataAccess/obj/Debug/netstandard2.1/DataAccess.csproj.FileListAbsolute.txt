@@ -1,0 +1,5 @@
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\SytemOffer\DataAccess\bin\Debug\netstandard2.1\DataAccess.deps.json
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\SytemOffer\DataAccess\bin\Debug\netstandard2.1\DataAccess.dll
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\SytemOffer\DataAccess\obj\Debug\netstandard2.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\SytemOffer\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\SytemOffer\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfo.cs

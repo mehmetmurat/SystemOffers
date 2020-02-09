@@ -1,0 +1,5 @@
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\SytemOffer\Business\bin\Debug\netstandard2.1\Business.deps.json
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\SytemOffer\Business\bin\Debug\netstandard2.1\Business.dll
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\SytemOffer\Business\obj\Debug\netstandard2.1\Business.csprojAssemblyReference.cache
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\SytemOffer\Business\obj\Debug\netstandard2.1\Business.AssemblyInfoInputs.cache
+C:\Users\bmura\Documents\MyProjects\SystemOffer\Backend\SytemOffer\Business\obj\Debug\netstandard2.1\Business.AssemblyInfo.cs
